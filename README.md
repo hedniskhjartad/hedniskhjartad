@@ -1,2 +1,2 @@
-C++ + sfml y html + css
+Estudiando C++/sfml, html/css
 
