@@ -1,3 +1,2 @@
-## Hola
-Aprendiendo C++ + sfml y html
+C++ + sfml y html + css
 
