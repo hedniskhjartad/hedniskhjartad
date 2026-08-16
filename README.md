@@ -1,2 +1,2 @@
-Estudiando C++/sfml, html/css
+Estudiando C++/sfml, html/css , python
 
